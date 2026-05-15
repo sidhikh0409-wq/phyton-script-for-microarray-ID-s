@@ -1,5 +1,4 @@
 # phyton-script-for-microarray-ID-s
-<<<<<<< HEAD
 
 <br>
 gse_id = "GSE42977"   # <-- Change to any GEO Series ID
