@@ -1,4 +1,5 @@
 # phyton-script-for-microarray-ID-s
+<<<<<<< HEAD
 
 <br>
 gse_id = "GSE42977"   # <-- Change to any GEO Series ID
@@ -140,3 +141,5 @@ plt.title(f"Volcano Plot - {gse_id}")
 plt.legend()
 plt.savefig("volcano_plot.png", dpi=300)
 plt.show()
+=======
+>>>>>>> cef2397ec78edd9b3862a9a476694c34c60bc0e0
